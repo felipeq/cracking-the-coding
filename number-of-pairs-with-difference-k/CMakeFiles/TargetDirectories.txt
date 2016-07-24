@@ -1,0 +1,1 @@
+/home/filip/Documents/Projects/cracking-the-coding/number-of-pairs-with-difference-k/CMakeFiles/Numbers_of_pairs_with_difference_k.dir

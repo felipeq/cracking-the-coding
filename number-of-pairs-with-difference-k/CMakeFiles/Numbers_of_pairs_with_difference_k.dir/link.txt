@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/Numbers_of_pairs_with_difference_k.dir/main.cpp.o  -o Numbers_of_pairs_with_difference_k -rdynamic 
